@@ -1,6 +1,6 @@
 ### Hi, I'm Aga :v:
 
-I am Frontend Developer that focused on JavaScript and React. Often use [Typescript](https://www.typescriptlang.org/) as typing layer in JavaScript. I love to improve my frontend web development skills.
+I am Frontend Developer that focused on JavaScript and React. Often use [Typescript](https://www.typescriptlang.org/) as typing layer in JavaScript. I love to improve my frontend web development skills. I prefer to working remotely from home.
 
 - :dart: I focused on Javascript and React technology stack.
 - :book: I'm currently learning about [React Query](https://react-query.tanstack.com/) as data-fetching solution for React app.
